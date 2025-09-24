@@ -3,7 +3,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/fatih/color"
+	"https://github.com/andryan87/ransomware.git"
 )
 
 var (
