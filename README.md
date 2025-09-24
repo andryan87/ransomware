@@ -1,7 +1,7 @@
 # Ransomware
 
 > Catatan: Proyek ini murni akademis, gunakan dengan risiko Anda sendiri. Saya tidak menganjurkan penggunaan perangkat lunak ini secara ilegal atau untuk menyerang target tanpa izin mereka sebelumnya
-**Tujuan di sini adalah untuk menyebarluaskan dan mengajarkan lebih banyak tentang keamanan di dunia nyata. Ingat, keamanan selalu menjadi pedang bermata dua**
+## Tujuan di sini adalah untuk menyebarluaskan dan mengajarkan lebih banyak tentang keamanan di dunia nyata. Ingat, keamanan selalu menjadi pedang bermata dua**
 
 ### Apa itu Ransomware?
 Ransomware adalah jenis malware yang mencegah atau membatasi pengguna mengakses sistem mereka, baik dengan mengunci layar sistem maupun dengan mengunci berkas pengguna kecuali tebusan dibayarkan. Keluarga ransomware yang lebih modern, yang secara kolektif dikategorikan sebagai kripto-ransomware, mengenkripsi jenis berkas tertentu pada sistem yang terinfeksi dan memaksa pengguna membayar tebusan melalui metode pembayaran daring tertentu untuk mendapatkan kunci dekripsi.
