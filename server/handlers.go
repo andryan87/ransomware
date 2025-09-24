@@ -7,8 +7,8 @@ import (
 	"net/http"
 
 	"github.com/julienschmidt/httprouter"
-	"https://github.com/andryan87/ransomware/tree/develop/repository"
-	"https://github.com/andryan87/ransomware/tree/develop/rsa"
+	"github.com/andryan87/ransomware/tree/develop/repository"
+	"github.com/andryan87/ransomware/tree/develop/rsa"
 )
 
 func addKeys(w http.ResponseWriter, r *http.Request, ps httprouter.Params) {
