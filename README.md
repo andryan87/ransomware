@@ -65,12 +65,12 @@ Misalkan Anda mendapatkan kembali kunci enkripsi Anda, Anda dapat mengambilnya d
 ```
 curl http://localhost:8080/api/keys/:id
 ```
-Where `:id` is your identification stored on the file on desktop. After, run on a terminal:
+Di mana `:id` adalah identitas Anda yang tersimpan di berkas di desktop. Setelah itu, jalankan di terminal:
 
 ```
 unlocker.exe decrypt yourencryptionkeyhere
 ```
-And that's it, got your files back :smile:
+Dan selesai, berkas Anda kembali :smile:
 
 ## Server endpoints
 
